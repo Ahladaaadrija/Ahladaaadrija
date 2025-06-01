@@ -1,9 +1,9 @@
 ## Hi I'm Ahlada A Adrija ✨
 
-🎓BTech Computer Science and Engineering student
-🎓College of Engineering Chengannur
-📌Design Volunteer in IEEE Student branch College of Engineering Chengannur
-📌Front-End Developer and Python Enthusiast
+🎓BTech Computer Science and Engineering student<br>
+🎓College of Engineering Chengannur<br>
+📌Design Volunteer in IEEE Student branch College of Engineering Chengannur<br>
+📌Front-End Developer and Python Enthusiast<br>
 
 
 ## 🌐 Socials:
